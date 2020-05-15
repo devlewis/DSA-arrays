@@ -1,0 +1,15 @@
+{
+  "name": "dsa-arrays",
+  "version": "1.0.0",
+  "description": "arrays file",
+  "main": "arrayMaker.js",
+  "scripts": {
+    "test": "t"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "vscode-debugadapter": "^1.41.0-pre.1"
+  }
+}
